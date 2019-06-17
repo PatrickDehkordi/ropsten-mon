@@ -1,4 +1,4 @@
-Ethereum Network Stats
+Ropsten Network Stats
 ============
 [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url]
 
@@ -16,8 +16,8 @@ Make sure you have node.js and npm installed.
 Clone the repository and install the dependencies
 
 ```bash
-git clone https://github.com/cubedro/eth-netstats
-cd eth-netstats
+git clone https://github.com/PatrickDehkordi/ropsten-mon
+cd ropsten-mon
 npm install
 sudo npm install -g grunt-cli
 ```
